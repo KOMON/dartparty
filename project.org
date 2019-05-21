@@ -7,6 +7,7 @@ Project: Dart Party
 ** Interactables
 * Characters
 ** PCs
+*** Gus Danger
 *** Support
 **** Sensors
      Make the target visible or detect where they are
