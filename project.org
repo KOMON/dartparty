@@ -1,0 +1,116 @@
+Project: Dart Party
+
+* Description
+  Top-down isometric hunt-and-seek in a mall. Asymmetric roles: target being hunted by the rest of players (with accomplice?).
+* Environments
+** Setting
+** Interactables
+* Characters
+** PCs
+*** Support
+**** Sensors
+     Make the target visible or detect where they are
+***** Detective
+      See the target's 4-5 steps from 30 sec ago
+***** Tracker
+      "Paint ball" (clothespin? sharpie?) to make the target visible for a short time, high cool down, no effect on NPCs
+***** Sweet Granny
+      Sweets, walkers
+      Give candy to children to get them to point where they saw the target (or not)
+      Short range little dart gun in purse
+      Slower than normal
+
+**** Trapsters
+     Interact with the interactables to make them detect/trap the target
+***** Janitor
+      Makes wet spots that can slip up the target
+*** Assassins
+**** Special Abilities
+***** Roller blades guy
+      Can't roller blade past security
+      If he gets caught, has to walk 30 sec
+**** Gun Advantages
+***** Long Range Guy
+      Longer range gun
+***** Net guy
+      Net that slows/stops the traget for a period of time
+      No shots eliminate target
+***** Extra shot guy
+      3 shots instead of 2
+*** Quirky
+    Trade offs, risky, or just weird
+**** Charmer
+     Can speak to NPCs (symbolically), if he talks to the target, the target involuntarily gives away something
+*** Target
+    Alert guards when being chased to eliminate hunters
+    Guards will tackle hunters that are being too obvious (with their guns out, shooting)
+**** Detective
+     Double the steps, 15 seconds ago for hunters
+**** Tracker
+     Can "track" an NPC to fool the hunters into thinking it's the target
+     What if there's no tracker on the hunter team?
+**** Sweet Granny
+     Walk with a walker (slow)
+     Can detect past moving hunters via children
+**** Charmer
+     Alert guards.
+** NPCs
+*** Dummies
+**** Food court worker
+**** Store clerk
+**** Kiosk Worker
+**** Sweet old ladies
+**** Real janitors
+**** Kids
+**** Couples
+**** Random fugly people
+*** Guards
+* Game Modes
+** Base
+*** Rules
+** Night
+*** Rules
+* Ideas
+** Target w/ Companion Ability
+*** Example
+   Target gets a service animal that can alert them when an hunter is nearby
+** Characters have abilities that help them as targets and as hunters
+** Randomize target selection (or choice by game mode/custom rules)
+** Interactable ideas
+*** Hiding
+    Immovable place to hide
+**** Clothes racks
+**** Bathroom Stalls     
+**** Changing rooms
+**** Employee Areas (risky unless disguised)
+***** Movie theater concessions, ticket booth
+***** Kiosks
+***** Food court restaurants
+***** Play areas for kids
+*** Sneaking
+    Temporary object disguise that may cause alerts when moving
+**** Trash Can
+*** Disguise
+    Movement possible, and won't alert (but temporary)
+**** Employee disguises
+** Alert level for hunters
+   Get kicked out or chased by guards when high
+** Quick-select text callouts
+*** Target location
+*** Player-specific pings
+**** Detective
+** Game modes
+*** Adults in a mall
+*** Kids at summer camp
+** NPC movements
+*** Walking in groups (2-5)
+*** Pacing
+*** Moving "aimlessly"
+*** Going into and out of shops
+*** Walking in a straight line
+*** Dressing rooms and bathrooms
+*** Stopping to talk
+*** Waiting in line
+*** Sitting in food court
+*** NPCs leave the mall over time (to make it easier to spot the target)
+*** Employees
